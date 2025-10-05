@@ -1,6 +1,8 @@
-## Uninassau Aracaju
+# Uninassau Aracaju
+
 ## Paulo Guilherme Oliveira de Lima   16035427
-##Turma C   ARA0400102NNC
+
+## Turma C   ARA0400102NNC
 
 ============================================================================================
 # Como usar o `consulta.sql`
