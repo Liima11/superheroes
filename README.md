@@ -2,8 +2,7 @@
 ## Paulo Guilherme Oliveira de Lima   16035427
 ##Turma C   ARA0400102NNC
 
-=====================================================================================================================================================================================================
-
+============================================================================================
 # Como usar o `consulta.sql`
 
 Este projeto contém o arquivo **`consulta.sql`**, que traz consultas SQL de exemplo para explorar a tabela `superhero` do banco de dados **`superheroes.db`**.
